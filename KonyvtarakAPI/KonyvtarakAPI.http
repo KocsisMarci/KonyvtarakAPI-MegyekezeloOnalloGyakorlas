@@ -1,0 +1,6 @@
+@KonyvtarakAPI_HostAddress = http://localhost:5065
+
+GET {{KonyvtarakAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
